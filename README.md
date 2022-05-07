@@ -2,7 +2,8 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-A small project following [this guide](https://learndjango.com/tutorials/django-login-and-logout-tutorial) to help me learn django
+A small project following [this guide](https://learndjango.com/tutorials/django-login-and-logout-tutorial) to help me learn django.
+The app allows you to create an account and sign in with said account. 
 
 ## Setup (MacOS)
 
