@@ -22,6 +22,8 @@ Install requirements within the virtual environment:
   (.venv) $ python3 -m pip install -r requirements.txt
 ```
 
+**Open the file petshop/secretsTemplate.py and follow the instructions inside**
+
 Create a new Sqlite database and run the local server:
 
 ```bash
