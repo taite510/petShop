@@ -1,2 +1,2 @@
-# no requirements yet
+# requirements listed below
 django~=4.0.0
