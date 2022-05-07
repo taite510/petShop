@@ -1,1 +1,2 @@
 # no requirements yet
+django~=4.0.0
